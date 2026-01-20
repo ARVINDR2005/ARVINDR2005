@@ -89,7 +89,7 @@
 ## 📊 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/DINU_ANAND_C_R?theme=wtf&font=Lato&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Algoarvind?theme=wtf&font=Lato&ext=heatmap" />
 </div>
 
 
